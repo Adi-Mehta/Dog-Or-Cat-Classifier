@@ -1,2 +1,9 @@
-# DogOrCat-
-Using a CNN to differentiate between Dogs and Cats
+# Dog_Or_Cat Classifier
+This project is designed to identify whether an input image is a Cat or Dog using a Convolutional Neural Network.
+
+## Dependencies:
+* Keras
+* Numpy
+* PIL
+
+Installed through: conda
